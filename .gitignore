@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+src/main/resources/firebase/techshop-71458-firebase-adminsdk-fbsvc-ad8044f1bc.json
 .apt_generated
 .classpath
 .factorypath
